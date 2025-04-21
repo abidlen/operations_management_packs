@@ -1,1 +1,3 @@
-# operations_management_packs
+The JSON files here represent the Management Pack Designs created when using the Managemnet Pack Builder (MPB) (https://techdocs.broadcom.com/us/en/vmware-cis/aria/aria-operations-for-integrations/2-0/management-pack-builder-2-0/management-pack-builder.html). You can take these designs, import them into your local installation of MPB, and further customize them as you choose.
+
+The PAK files are the Management Packs themselves, ready for import into your Operations instance.
